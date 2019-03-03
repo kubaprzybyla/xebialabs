@@ -1,0 +1,4 @@
+---
+- import_tasks: ./backup_tomcat.yaml
+- import_tasks: ./backup_soa.yaml
+- import_tasks: ./backup_dailybatch.yaml
